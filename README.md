@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-I like Macbook and Ather 450Apex
+I like Ather 450Apex
 
 <!---
 kottaimani/kottaimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
